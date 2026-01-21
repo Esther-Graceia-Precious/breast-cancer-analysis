@@ -31,7 +31,7 @@ to predict whether a tumor is benign or malignant.
 The models were evaluated using accuracy, confusion matrix, and classification report.
 Random Forest achieved the highest accuracy.
 
-## 🚀 How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
 python src/model.py
