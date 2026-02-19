@@ -5,8 +5,7 @@ This project focuses on analyzing breast cancer data and building machine learni
 to predict whether a tumor is benign or malignant.
 
 ##  Dataset
-- Breast Cancer Wisconsin Dataset
-- Features include radius, texture, perimeter, area, smoothness, etc.
+- Breast Cancer Dataset
 
 ##  Technologies Used
 - Python
@@ -25,6 +24,7 @@ to predict whether a tumor is benign or malignant.
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Random Forest
+- XgBoost
 - K-Nearest Neighbors
 
 ##  Results
